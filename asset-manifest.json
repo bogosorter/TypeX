@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypeX/static/css/main.2fa4883e.css",
+    "main.js": "/TypeX/static/js/main.dd024d2d.js",
+    "index.html": "/TypeX/index.html",
+    "main.2fa4883e.css.map": "/TypeX/static/css/main.2fa4883e.css.map",
+    "main.dd024d2d.js.map": "/TypeX/static/js/main.dd024d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa4883e.css",
+    "static/js/main.dd024d2d.js"
+  ]
+}
