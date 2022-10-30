@@ -10,7 +10,7 @@ export default function Header({ theme }) {
         <Navbar variant={theme} style={{ zIndex: '1' }}>
             <Navbar.Brand className='ms-4'>
                 <img
-                    src='/TypeX/logo-cropped.png'
+                    src={process.env.PUBLIC_URL + '/logo-cropped.png'}
                     width='30'
                     height='30'
                     className='d-inline-block align-top me-2'
